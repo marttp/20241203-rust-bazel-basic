@@ -1,0 +1,13 @@
+.idea
+/target
+Cargo.lock
+
+# Bazel
+**/MODULE.bazel
+**/MODULE.bazel.lock
+/bazel-bazel-tutorial
+/bazel-rs-bazel
+/bazel-bin
+/bazel-out
+/bazel-testlogs
+
